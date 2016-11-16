@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-Mitt namn är Daniel och jag studerar drift och utveckling av mjukvarusystem på Linnéuniversitetet! Jag är erfaren inom programmeringsspråken Java samt C# och lär mig just nu mer front-end baserade teknologier som HTML, CSS samt programmeringsspråket Javascript.
+Hi!
+
+My name is Daniel and I'm studying programming at LNU in Sweden. I have experience in Java and C# and I'm currently learning more front-end based technologies such as HTML, CSS and Javascript.
