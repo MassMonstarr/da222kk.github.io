@@ -3,8 +3,8 @@
  */
 .site-header {
     border-bottom: 1px solid $grey-color-light;
-    min-height: 150px;
-    background-image: $logo;
+    min-height: 70px;
+    background-color: $blue-color-light;
 
     // Positioning context for the mobile navigation icon
     position: relative;
@@ -187,8 +187,18 @@
 .post-link {
     display: block;
     font-size: 24px;
+		border: 1px solid black;
+		border-radius: 15px;
+		background-color: $blue-color-light;
+		color: black;
 }
 
+.post-snippet {
+    display: block;
+    font-size: 12px;
+		border: 1px solid black;
+		background-color: $grey-color-light;
+}
 
 
 /**

@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "Disqus and Open Graph"
+date:   2016-11-17 19:07:28
+categories: exam
+snippet: To implement comments to my blog I used the technology provided by Disqus. Primarly because I have stumbled upon it before but also since it was recommended...
+---
+
+To implement comments to my blog I used the technology provided by Disqus. Primarly because I have stumbled upon it before but also since it was recommended and had such easy implementation.
+
+Open Graph is very neat. When sharing a page on for example Twitter, some information about the page follows with it according to your configuration. This can be an image, a snippet of text... etc.
