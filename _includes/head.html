@@ -1,8 +1,11 @@
 <head>
-		{% include og.html %}
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width initial-scale=1" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta property="og:title" content="{{page.title}}" />
+		<meta property="og:type" content="blog" />
+		<meta property="og:url" content="{{page.url}}" />
+		<meta property="og:image" content="https://s-media-cache-ak0.pinimg.com/564x/4e/5c/f7/4e5cf7d4ccb9c59b6620a9c71944d51e.jpg" />
 		<link rel="author" href="humans.txt" />
     <title>{% if page.title %}{{ page.title }}{% else %}{{ site.title }}{% endif %}</title>
     <meta name="description" content="{{ site.description }}">
